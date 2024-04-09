@@ -32,7 +32,7 @@ export default function Header() {
             </Button>
 
             <Link to="/sign-in">
-                <Button color="blue">Sign In</Button>
+                <Button gradientDuoTone="cyanToBlue" outline>Sign In</Button>
             </Link>
 
             <NavbarToggle />
