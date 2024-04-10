@@ -53,10 +53,10 @@ export default function Signup() {
         {/* left */}
         <div className='flex-1'>
         
-          <Link to="/" className='font-bold dark:text-white text-4xl'>            
+          <Link to="/" className='font-bold dark:text-white text-6xl'>            
              BlogBuzz
           </Link>
-          <p className='text-sm mt-5'>BlogBuzz: Where Ideas Take Flight.</p>
+          <p className='text-md mt-5'>BlogBuzz: Where Ideas Take Flight.</p>
 
         </div>
 
